@@ -65,3 +65,4 @@ BackEnd.prototype.set_policy = function(action, rule) {
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2014 Stevo <[http://github.com/vovantics/](http://github.com/vovantics/)>
+
